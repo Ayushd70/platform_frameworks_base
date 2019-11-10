@@ -15,13 +15,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
     <!-- Advance Power Menu -->
     <string name="global_action_restart_advanced">Advanced</string>
     <string name="global_action_restart_recovery">Recovery</string>
     <string name="global_action_restart_bootloader">Bootloader</string>
     <string name="global_action_restart_ui">SystemUI</string>
 
+    
+    <!-- Power menu item for taking a screenshot [CHAR LIMIT=20]-->
+    <string name="global_action_screenshot_cust">Screenshot</string>
+    <string name="global_action_screenrecord">Screenrecord</string>
+    
     <!-- Manage notification history -->
     <string name="manage_notifications_history_text">History</string>
 </resources>

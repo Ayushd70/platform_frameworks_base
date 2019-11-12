@@ -24,7 +24,7 @@
     
     <!-- Power menu item for taking a screenshot [CHAR LIMIT=20]-->
     <string name="global_action_screenshot_cust">Screenshot</string>
-    <string name="global_action_screenrecord">Screenrecord</string>
+    <string name="global_action_screenrecord">Screen Rec</string>
     
     <!-- Manage notification history -->
     <string name="manage_notifications_history_text">History</string>
